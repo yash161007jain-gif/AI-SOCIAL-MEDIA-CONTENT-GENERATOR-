@@ -1,0 +1,19 @@
+🛠️ Project Requirements
+
+💻 Software Requirements
+• Python 3.x
+• Google Colab
+
+📦 Python Libraries
+• google-genai
+• IPython
+• Pillow
+
+🤖 AI Requirements
+• Google Gemini API
+• Gemini 2.5 Flash
+
+🔐 API Configuration
+• Gemini API Key
+• Store API Key securely using Google Colab Secrets
+• Never upload API keys to GitHub
