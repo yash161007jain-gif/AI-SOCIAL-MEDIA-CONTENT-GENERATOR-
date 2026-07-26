@@ -64,7 +64,7 @@ AI-SOCIAL-MEDIA-CONTENT-GENERATOR/
 └── ai_social_media_content_generator.ipynb 
 └── requirements.png
 └── requirements.txt
-└── thumbnail.png 
+└── thumbnail.png
 ```
 
 ---
