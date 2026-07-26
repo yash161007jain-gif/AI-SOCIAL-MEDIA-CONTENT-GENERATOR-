@@ -1,7 +1,5 @@
 # 🤖 AI Social Media Content Generator
 
-![Project Thumbnail](thumbnail.png)
-
 An AI-powered content generation project built during the **Zenith School of AI Masterclass** using **Python**, **Google Colab**, and the **Google Gemini API**.
 
 The project demonstrates how Large Language Models (LLMs) can simplify social media content creation by generating engaging posts from simple user inputs.
